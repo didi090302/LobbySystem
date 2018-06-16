@@ -2,9 +2,12 @@ name: LobbySystem
 author: didi090302
 version: 1.0
 
-main: didi090302
+main: de.didi090302.lobbysystem.Main
 
 commands:
   lshelp:
     description: Show all inportant commands!
     aliases: [lshelp, lsh]
+  lsinfo:
+    description: Show the current Version of this Plugin!
+    aliases: [lsinfo, lsi]

@@ -11,7 +11,7 @@ public class LsInfoCMD implements CommandExecutor {
 
     public LsInfoCMD(Main main) {
         this.main = main;
-        Bukkit.getServer().getPluginCommand("lshelp").setExecutor(this);
+        Bukkit.getServer().getPluginCommand("lsinfo").setExecutor(this);
     }
 
     @Override
