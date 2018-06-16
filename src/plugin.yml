@@ -1,0 +1,10 @@
+name: LobbySystem
+author: didi090302
+version: 1.0
+
+main: didi090302
+
+commands:
+  lshelp:
+    description: Show all inportant commands!
+    aliases: [lshelp, lsh]
